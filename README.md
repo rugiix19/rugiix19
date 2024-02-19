@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rugiix19 Roger Arnan</h1>
 <h3 align="center">A passionate student programer from spain</h3>
 
-<h3>🔭 I’m currently working on a few projects</h3>
-</h3>👯 I’m looking to collaborate on my friends</h3>
-</h3>🤝 I’m looking for help with my programing habilities</h3>
-<h3>🌱 I’m currently learning Java,sql,html and bash</h3>
+<h5>🔭 I’m currently working on a few projects</h5>
+<h5>👯 I’m looking to collaborate on my friends</h5>
+<h5>🤝 I’m looking for help with my programing habilities</h5>
+<h5>🌱 I’m currently learning Java,sql,html and bash</h5>
 
 
 <h3 align="left">Connect with me:</h3>
